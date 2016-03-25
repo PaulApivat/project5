@@ -4,6 +4,7 @@
 	color: red;
 }
 
+/*
 .week {
 	position: relative;
 	background-color: #FF6633;
@@ -15,13 +16,14 @@
 	left: 200px;
 	box-shadow: 2px 2px 1px black;
 }
+*/
 
 .phrase {
 	background-color: #009999;
 	color: white;
-	font-size: 30px;
+	font-size: 50px;
 	text-align: center;
-	height: 50px;
+	height: 75px;
 	padding-top: 50px;
 	margin-top: 150px;
 	box-shadow: 2px 2px 1px black;
@@ -44,14 +46,24 @@
 	background-color: #FF6633;
 	height: 50px;
 	width: 30px;
+	font-size: 30px;
 }
 
 .day {
-	font-size: 30px;
+	font-size: 35px;
 	color: white;
 	background-color: #009999;
 	height: 250px;
 	width: 50px;
 }
 
+.footer {
+	background-color: #FF6633;
+	margin-top: 50px;
+	width: 150px;
+	border-radius: 10px;
+	text-align: center;
+	word-spacing: 20px;
+	box-shadow: 2px 2px 1px black
+}
 
