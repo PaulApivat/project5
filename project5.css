@@ -3,3 +3,55 @@
 #initial {
 	color: red;
 }
+
+.week {
+	position: relative;
+	background-color: #FF6633;
+	text-align: center;
+	word-spacing: 70px;
+	width: 700px;
+	height: 50px;
+	padding-top: 50px;
+	left: 200px;
+	box-shadow: 2px 2px 1px black;
+}
+
+.phrase {
+	background-color: #009999;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	height: 50px;
+	padding-top: 50px;
+	margin-top: 150px;
+	box-shadow: 2px 2px 1px black;
+}
+
+.week1 {
+	position: relative;  
+	background-color: #FF6633;
+	text-align: center;
+	word-spacing: 70px;
+	width: 700px;
+	height: 75px;
+	padding-top: 50px;
+	left: 200px;
+	box-shadow: 2px 2px 1px black;
+}
+
+.week1 .tab{
+	display: inline-block;
+	background-color: #FF6633;
+	height: 50px;
+	width: 30px;
+}
+
+.day {
+	font-size: 30px;
+	color: white;
+	background-color: #009999;
+	height: 250px;
+	width: 50px;
+}
+
+
